@@ -8,7 +8,7 @@
         "save_steps": 10,
         "logging_steps": 1,
         "learning_rate": 0.0003,
-        "num_train_epochs": 1,
+        "num_train_epochs": 4,
         "fp16": true,
         "bf16": false,
         "torch_compile": false,
