@@ -1,2 +1,2 @@
-# nested_ner_ru
+# Nested Named Entity Recognition
 Nested Named Entity Recognition
